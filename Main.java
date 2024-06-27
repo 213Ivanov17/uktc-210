@@ -5,7 +5,7 @@ public class Main {
     private static final String FAV_MOVIE = "";
 
     public static void main(String[] args) {
-        System.out.println("Hello, my name is " + NAME);
+        System.out.println("Hello, your name is " + NAME);
         System.out.println("I'm " + AGE + " years old");
         System.out.println("DELETE ME");
         System.out.println("I live in " + CITY);
